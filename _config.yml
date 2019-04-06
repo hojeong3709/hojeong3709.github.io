@@ -1,18 +1,21 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
-paginate:     1
-locale:       "en"
+title: Hojeong.Kwak's Blog
+tagline: Software Engineer@LGE
+paginate: 1
+locale: "ko"
 
 # About/contact
-author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+author: Hojeong.Kwak
+email: hojeong3709.kwak@lge.com  
 
 # Gems
 gems:
   - jekyll-paginate
+  - jekyll-feed
 
-#Others
+# Others
 markdown: kramdown
+
+# Navigation
+pages_list:
+    About: '/about'
