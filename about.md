@@ -5,8 +5,9 @@ permalink: /about/
 ---
 
 # About Me
-- I am a software developer specialized in SoC( System On Chip ), and working for LG Electronics, South Korea since 2015.
-- hojeong3709.kwak@lge.com
+- Software Developer Specialized in SoC( System On Chip ).
+- Working for LG Electronics, South Korea Since 2015.
+- E-mail : hojeong3709.kwak@lge.com
 
 # Current Interest
 - "Shift Left" on Software Development LifeCycle.
