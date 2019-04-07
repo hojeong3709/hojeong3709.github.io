@@ -1,21 +1,29 @@
-# Setup
-title: Hojeong.Kwak's Blog
-tagline: Software Engineer@LGE
-paginate: 1
-locale: "ko"
-
-# About/contact
+# default
 author: Hojeong.Kwak
 email: hojeong3709.kwak@lge.com  
 
-# Gems
+markdown: kramdown
+title: Hojeong.Kwak's Blog
+tagline: Software Developer@LGE
+locale: "ko"
+
+# Required Packages ( Gems )
 gems:
-  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
 
-# Others
-markdown: kramdown
+# Reference
+reference:
+    github-pages: "https://pages.github.com"
+    github-hojeong3709-repository: "https://github.com/hojeong3709"
+    jekyll-plugins-supported-by-github-pages: "https://help.github.com/en/articles/adding-jekyll-plugins-to-a-github-pages-site"
 
 # Navigation
-pages_list:
-    About: '/about'
+navigation:
+    home: "/"
+    about: "/about"
+    sitemap: "/sitemap.xml"
+    feed: "/feed.xml"
+           
+# Category
+category: ["Software Engineering", "Programming", "Project"]
