@@ -1,5 +1,5 @@
 ---
-layout: common-comment
+layout: page-layout-style-02
 title:  "Opensource License Compliance"
 category: "Software Engineering"
 ---

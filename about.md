@@ -1,5 +1,5 @@
 ---
-layout: common
+layout: page-layout-style-01
 title: About
 permalink: /about/
 ---
@@ -10,8 +10,9 @@ permalink: /about/
 - E-mail : hojeong3709.kwak@lge.com
 
 # Current Interest
-- "Shift Left" on Software Development LifeCycle.
-- Requirement Engineering and Management.
+- I Love PYTHON!!
+- Cloud Native with DevOps (AWS/Azure + Docker + Kubernates)
+- AI(ML/DL/RL) - Scikit-learn/tensorflow/keras/kubeflow
 
 # History
 - To Be Continued...

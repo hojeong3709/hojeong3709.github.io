@@ -26,4 +26,4 @@ navigation:
     feed: "/feed.xml"
            
 # Category
-category: ["Software Engineering", "Programming", "Project"]
+category: ["Project", "Machine Learning", "Deep Learning", "Reinforcement Learning", "DevOps(CI/CD)", "Software Engineering"]

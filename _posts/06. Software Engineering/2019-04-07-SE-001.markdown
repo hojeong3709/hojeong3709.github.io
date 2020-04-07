@@ -1,5 +1,5 @@
 ---
-layout: common-comment
+layout: page-layout-style-02
 title:  "SW는 생각이다."
 category: "Software Engineering"
 ---
