@@ -1,6 +1,6 @@
 ---
 layout: page-layout-style-02
 title:  "To Be Continued..."
-category: "DevOps(CI/CD)"
+category: "Cloud Native with DevOps(CI/CD)"
 ---
 
