@@ -1,13 +1,6 @@
----
-layout: page-layout-style-02
-title:  "Nueral Network-1"
-category: "Deep Learning"
----
+I"�<h1 id="nueral-network-이해">Nueral Network 이해</h1>
 
-# Nueral Network 이해
-
-```python
-from keras.datasets import mnist
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>from keras.datasets import mnist
 from keras import models
 from keras import layers
 from keras.utils import to_categorical
@@ -40,4 +33,5 @@ network.fit(train_images, train_labels, epochs=5, batch_size=128)
 
 test_loss, test_acc = network.evaluate(test_images, test_labels)
 print(test_acc)
-```
+</code></pre></div></div>
+:ET
