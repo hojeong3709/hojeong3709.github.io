@@ -26,4 +26,4 @@ navigation:
     feed: "/feed.xml"
            
 # Category
-category: ["Project", "Machine Learning", "Deep Learning", "Reinforcement Learning", "Cloud Native with DevOps(CI/CD)", "Software Engineering"]
+category: ["Project", "DevOps with KS8", "Machine Learning", "Deep Learning", "Reinforcement Learning", "Software Engineering"]
