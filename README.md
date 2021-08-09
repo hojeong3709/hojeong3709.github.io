@@ -12,7 +12,7 @@
 
 윈도우에서 블로그 환경설정 및 실행을 할 수 있습니다.
 
-물론 리눅스도 가능합니다. :)
+물론 리눅스도 가능 :)
 
 ```
 1. Download & install RubyInstaller with Devkit ( https://rubyinstaller.org/downloads/ )

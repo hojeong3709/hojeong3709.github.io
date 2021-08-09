@@ -6,6 +6,7 @@ markdown: kramdown
 title: Hojeong.Kwak's Blog
 tagline: Software Developer@LGE
 locale: "ko"
+enconding: utf-8
 
 # Required Packages ( Gems )
 gems:
