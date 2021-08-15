@@ -1,5 +1,5 @@
 ---
 layout: page-layout-content-style
-title:  "#11 Ensemble(Bagging)"
+title:  "#14 Ensemble of Ensemble"
 category: "Machine Learning(Supervised)"
 ---
