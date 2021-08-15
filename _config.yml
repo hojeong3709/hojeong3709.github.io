@@ -27,4 +27,4 @@ navigation:
     feed: "/feed.xml"
            
 # Category
-category: ["Project", "DevOps with Docker,KS8", "Machine Learning(Supervised)", "Machine Learning(Unsupervised)", "Deep Learning", "Reinforcement Learning", "Insight", "Software Engineering"]
+category: ["Project", "Software Engineering", "Insight", "DevOps Engineering", "DevOps Engineering on AWS", "Machine Learning(Supervised)", "Machine Learning(Unsupervised)", "Deep Learning", "Reinforcement Learning"]
