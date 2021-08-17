@@ -5,7 +5,9 @@ title: {{ site.name }}
 
 <div id="home">
 	{% for category in site.category %}
-		<h1>{{ category }} </h1>
+		<blockquote>
+			<h1>{{ category }} </h1>	
+		</blockquote>
 		<ul class="posts">
 		{% for post in site.posts %}
 			{% if category == post.category %}
