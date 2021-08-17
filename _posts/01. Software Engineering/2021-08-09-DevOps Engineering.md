@@ -1,6 +1,6 @@
 ---
 layout: page-layout-content-style
-title:  "DevOps 요약정리"
+title:  "DevOps Engineering"
 category: "Software Engineering"
 ---
 
